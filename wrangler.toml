@@ -6,3 +6,4 @@ keep_vars = true
 [[kv_namespaces]]
 binding = "KV"
 id = "b0f39b2863514042b1fc30cd7df9460f"
+# Trigger Workers build after reconnecting Git integration
